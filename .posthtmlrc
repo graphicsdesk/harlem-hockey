@@ -7,12 +7,276 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Malik Garvin’s path to ice hockey began when his mother saw a flyer posted on the wall at his older brother’s after-school program. It advertised the New York City-based nonprofit organization Ice Hockey in Harlem, which provides educational opportunities to children from the Harlem community through the game of ice hockey. Enticed by the program, Garvin’s mother enrolled his brother. At age four, Garvin joined his brother on the ice."
+          },
+          {
+            "type": "text",
+            "value": "Ice Hockey in Harlem is one organization that promotes the growth of ice hockey among Harlem youth, a sport that is notoriously expensive and socially homogeneous. In New York City, these challenges, exacerbated by the limited number of ice rinks, make ice hockey inaccessible to many in the city."
+          },
+          {
+            "type": "text",
+            "value": "After a successful high school and collegiate career playing ice hockey, Garvin found his way back to Ice Hockey in Harlem in 2020, first becoming the program director and then the executive director."
+          },
+          {
+            "type": "subhed",
+              "value": "A heated competition for ice"
+          },
+          {
+            "type": "text",
+            "value": "In spring 2021, Lasker Rink in northern Central Park closed because of a $110 million project to renovate the Harlem Meer. Ice Hockey in Harlem had been operating out of Lasker Rink for decades, and the closure of the rink put stress on the organization, according to Garvin. Without Lasker, Ice Hockey in Harlem is without a home rink until at least 2024, when the rink is set to reopen."
+          },
+          {
+            "type": "text",
+            "value": "Last year, the program found itself shuttling players around the city, from Midtown Manhattan’s Wollman Rink to the City Ice Pavilion and the World Ice Arena, both of which are in Queens. Finding ice time in the city is difficult—most rinks already have their own respective programs, and the high costs of renting the ice makes organizing practice time even harder."
+          },
+          {
+            "type": "text",
+            "value": "“We face exponential ice time and transportation costs,” Garvin said. While the organization has consolidated down to Wollman and the World Ice Arena this year, it pays nearly double the amount for ice time in Queens than it did at Lasker."
+          },
+          {
+            "type": "text",
+            "value": "The program’s struggle to find a new home amid the closing of Lasker exemplifies the limited rink access in New York City—despite it being the nexus of the three National Hockey League teams in the metropolitan area."
+          },
+          {
+            "type": "text",
+            "value": "Leslie Wright, the New York City regional director for the New York State Office of Parks, Recreation, and Historic Preservation, explained the strain that Lasker’s closure put on other New York City rinks. “Having one rink closed down for renovation has an impact on pretty much every rink in the five boroughs of New York City,” Wright said."
+          },
+          {
+            "type": "text",
+            "value": "With the closing of Lasker, Riverbank State Park’s Riverbank Rink has become the only rink in Upper Manhattan."
+          },
+          {
+            "type": "text",
+            "value": "“Every single group wants a lot more ice time [at Riverbank] … there’s a very friendly but heated competition every year for literally every minute of ice time,” Wright said."
+          },
+          {
+            "type": "text",
+            "value": "To complicate matters, both Lasker and Riverbank are outdoor rinks, which means their ice time is seasonal, depending on colder temperatures."
+          },
+          {
+            "type": "text",
+            "value": "“Every year, Mother Nature gives us a bit of a run for the money. This year was one of our—so far—latest opening years,” Wright said about Riverbank."
+          },
+          {
+            "type": "text",
+            "value": "Warmer temperatures, compounded with rainy weather, made it difficult to build the ice at Riverbank. Hockey seasons usually begin early in the fall and go late into the spring. According to Wright, however, this season’s abnormal climate shortened the seasonal rink schedule, further limiting the places and times of the year hockey can be played in New York City."
+          },
+          {
+            "type": "text",
+            "value": "In fact, the Sky Rink, located at Chelsea Piers, is the only indoor rink in Manhattan, making it the only rink on the island where skating is possible year-round.  And while the rink at Chelsea Piers may not be limited by the weather, the Sky Rink still raises an issue of its own: It is much more expensive than Riverbank. According to Bruce Baker, the U18 team’s coach at Riverbank State Park, renting ice at the Sky Rink for a game will total roughly $3,200. Comparatively, at Riverbank, he says, ice time for a game generally costs $725 for nonprofits like Ice Hockey in Harlem and around $1,625 for private groups."
+          },
+          {
+            "type": "subhed",
+              "value": "The high cost of hockey"
+          },
+          {
+            "type": "text",
+            "value": "Ice hockey is notoriously expensive for players. Participating in hockey at even an elementary level requires hundreds, if not thousands, of dollars spent on basic and necessary equipment—skates, a helmet, a stick, armor, gloves, and more. On top of that, ice time costs and program fees pose further financial hurdles that players have to overcome."
+          },
+          {
+            "type": "text",
+            "value": "“Generally speaking in the hockey world, there is a [growing] awareness of how inaccessible it is because of the costs,” Garvin said. “It’s not just inaccessible to low-income families. It’s inaccessible to middle-class families as well.”"
+          },
+          {
+            "type": "text",
+            "value": "With the help of state funding, program organizers at Riverbank try to lift some burdens by including an equipment loan in the enrollment cost. At the Riverbank State Park Ice Rink, one season of youth hockey only costs $195 per player, while a season of youth hockey costs  around $1,200 at other indoor rinks."
+          },
+          {
+            "type": "text",
+            "value": "Beyond personal costs, Tatiana Donaldson, BC ’17, a board member of Ice Hockey in Harlem, has said that ice hockey team expenses make the sport inaccessible. Donaldson recalled the struggles she faced finding affordable ice time when she played for Columbia women’s ice hockey."
+          },
+          {
+            "type": "text",
+            "value": "“We used to drive up to Pelham in Westchester to play … Once or twice a week, we were in a van on the way up there because [the rink there] was the cheapest,” Donaldson said."
+          },
+          {
+            "type": "text",
+            "value": "More expensive ice time often means less practice time as a whole, either due to unaffordable costs or extensive travel times."
+          },
+          {
+            "type": "text",
+            "value": "“You really kind of do lose a little bit developmentally, not being able to get on the ice like that,” Donaldson explained."
+          },
+          {
+            "type": "text",
+            "value": "The cost of ice hockey increases as players advance in skill and division. Those who are looking to compete in college and beyond are expected to play junior hockey—a level of semi-professional play that is typically not free for participants. The United States Premier Hockey League, a junior league, has tuition fees ranging from $7,000 to $11,000."
+          },
+          {
+            "type": "text",
+            "value": "However, players who show a lot of talent at Riverbank have the opportunity to play junior hockey in the USPHL’s tuition-free National Collegiate Development Conference, Baker explained. But still, pursuing a higher level of play—whether it be the USPHL or other leagues and travel teams—often requires traveling outside of Manhattan to other boroughs or even New Jersey."
+          },
+          {
+            "type": "text",
+            "value": "As youth sports continue to develop an elite culture with exponential costs for developing players, access to hockey continues to decrease, especially with the lack of opportunities in New York City."
+          },
+          {
+            "type": "text",
+            "value": "“The talent is here, but the resources aren’t here,” Baker said. “There are no rinks … We’re just stifled.”"
+          },
+          {
+            "type": "text",
+            "value": "Nevertheless, the demand for youth hockey programs in West Harlem persists, met in part by the efforts of Ice Hockey in Harlem and the state-subsidized program at Riverbank Park. Every year, long waitlists can be found for every age range of the hockey program at Riverbank. Similarly, Ice Hockey in Harlem has had to cap the number of participants in the program at around 150 due to limited space and resources."
+          },
+          {
+            "type": "text",
+            "value": "The Central Park North Stars, an ice hockey team for disabled players originating in Upper Manhattan, feels similar tensions in program size due to resource constraints."
+          },
+          {
+            "type": "text",
+            "value": "Bill Tobias, the head coach and general manager of the North Stars, runs the program of around 30 players in his personal time. The team faced additional pressures when Lasker closed, as players then had to personally find ways to travel to and from practices across the city."
+          },
+          {
+            "type": "text",
+            "value": "“I’m running everything,” Tobias said. “I don’t want to get [the program] to be too big. I’m sure if we went out and advertised around the city, there’s a lot of players that would qualify for our team that may want to play. I’m sure we would have no problem getting over 100 participants.”"
+          },
+          {
+            "type": "subhed",
+              "value": "Benefits beyond the rink"
+          },
+          {
+            "type": "text",
+            "value": "Despite these financial and spatial challenges, ice hockey has the potential to enact positive change on the lives of West Harlem players."
+          },
+          {
+            "type": "text",
+            "value": "“I had a positive experience,” Garvin said about his time participating in Ice Hockey in Harlem programs. “Ice Hockey in Harlem opened up a lot of doors for me … they afforded me the opportunity to go to junior boarding school, eventually boarding school. I played hockey in college, also was able to go to summer camps in places like Canada and Maine.”"
+          },
+          {
+            "type": "text",
+            "value": "Ice Hockey in Harlem hopes to benefit its players beyond the rink through supplementary educational programs.The organization runs a college exploration series, which exposes students to the prospects of higher education. This year, program participants had the opportunity to visit Boston College, Long Island University, and Williams College."
+          },
+          {
+            "type": "text",
+            "value": "“It’s not just about the hockey,” Donaldson explained, “It’s about the doorways that hockey can open for you, in terms of playing and university or traveling or meeting people that you wouldn’t otherwise meet.”"
+          },
+          {
+            "type": "text",
+            "value": "The outcomes are real—Garvin’s involvement in the program and the opportunities that arose from his introduction to hockey exemplify the organization’s mission to the highest level."
+          },
+          {
+            "type": "text",
+            "value": "During the height of the pandemic, when in-person practices were limited, Ice Hockey in Harlem worked to maintain academic rigor for its students."
+          },
+          {
+            "type": "text",
+            "value": "“I think that curriculum is much more robust than it used to be, or maybe would have been, had the pandemic not forced us to do that,” Donaldson said."
+          },
+          {
+            "type": "text",
+            "value": "Similarly, Wright commented on the positive effects of hockey as a sport and after-school program."
+          },
+          {
+            "type": "text",
+            "value": "“Playing sports is really healthy, really fun, really great discipline for anybody, but certainly kids, kind of as organizing principles,” she said."
+          },
+          {
+            "type": "text",
+            "value": "The North Stars also believe that hockey can have great benefits for players beyond athletic development. The team, which is part of the American Special Hockey Association, was founded by Bob Epner in 2014, who wanted to create a space where his son with autism could play ice hockey in a more understanding environment. Since then, the North Stars have fostered a positive and engaged community for players of all ages."
+          },
+          {
+            "type": "text",
+            "value": "“Our team is great because if we do get younger players, they can grow with the program and stay with the program for years,” Tobias said. “You can see the growth of their confidence being around other people, being with other people. As the kids get older and get more confident we give them more to do—we have them helping the younger players.”"
+          },
+          {
+            "type": "text",
+            "value": "Organizations like Ice Hockey in Harlem and the North Stars have used hockey programs to encourage New York City youth to grow not only as players but also as people."
+          },
+          {
+            "type": "subhed",
+              "value": "Diversifying the game"
+          },
+          {
+            "type": "text",
+            "value": "Socioeconomic and geographic factors have led hockey to become a predominantly white sport, often being associated with private preparatory schools or cold, rural areas. The NHL’s first Accelerating Diversity and Inclusion report, released last October, revealed that the workforce of the organization is around 84 percent white."
+          },
+          {
+            "type": "text",
+            "value": "The recent actions of the Boston Bruins management team exemplifies the racism still present in hockey culture. On Nov. 4, 2022, the Bruins sent out a press release announcing that they had signed 20-year-old Mitchell Miller to an entry-level contract. The article was accompanied by an apology from Miller and a lengthy line of reasoning from General Manager Don Sweeney."
+          },
+          {
+            "type": "text",
+            "value": "At age 14, Miller pleaded guilty to assault and a violation of the Ohio Safe Schools Act. He had racially abused and bullied a disabled Black classmate. Miller, originally drafted by the Arizona Coyotes, had been dropped by the club when details of the conviction were released. His signing by the Bruins was a signal that Miller was being invited back into the fold of the NHL."
+          },
+          {
+            "type": "text",
+            "value": "The lack of racial diversity in the game is something Donaldson is all too aware of. Growing up as a Black woman in the Bahamas, Donaldson did not start playing hockey until she moved to the United States for boarding school. On top of learning about the expensive costs of the game, she also noticed how white the sport was."
+          },
+          {
+            "type": "text",
+            "value": "“Every time I saw another player of color on the ice, no matter if we were in the middle of a rivalry game or something, I was like, ‘Yes, here we are,’” Donaldson said."
+          },
+          {
+            "type": "text",
+            "value": "Today, her passion to create a sport that is more diverse is what drives her work with Ice Hockey in Harlem. In comparison to other areas of New York City, West Harlem has about two times the number of Hispanic residents and about 1.4 times the number of Black residents."
+          },
+          {
+            "type": "text",
+            "value": "The three NHL teams in the metropolitan area—the New York Rangers, the New York Islanders, and the New Jersey Devils—have all partnered with Ice Hockey in Harlem in some capacity. Just this month, the organization received a $50,000 donation from the New York Islanders to assist with operational costs. Special programming for Ice Hockey in Harlem includes trips to NHL games where kids have the opportunity to not only watch the game, but also to skate on the ice during intermission or after the game."
+          },
+          {
+            "type": "text",
+            "value": "“For me, it was the love of watching the game before I even started playing,” Donaldson said."
+          },
+          {
+            "type": "text",
+            "value": "She also believes that working with the NHL provides an opportunity to show kids what the game can look like, especially with players of color in the league."
+          },
+          {
+            "type": "text",
+            "value": "“We’ve had this discussion at a larger societal level about seeing representation in media, or sports, or whatever that looks like and how that really does drive kids to want to play,” Donaldson explained. “When I thought about coaching or being involved [with Ice Hockey in Harlem], it was like, how many times … as a young, impressionable person on the ice, did I see anyone who looked like me?”"
+          },
+          {
+            "type": "subhed",
+              "value": "Skating forward"
+          },
+          {
+            "type": "text",
+            "value": "So what does the future of ice hockey look like in West Harlem and in New York City? According to Garvin, there exist a number of initiatives in the hockey world aiming to make the sport more accessible. In cities throughout the league, the NHL has offered opportunities for children to try out the game for free or at discounted prices."
+          },
+          {
+            "type": "text",
+            "value": "Ice Hockey in Harlem has been pursuing the goal of accessibility for decades. Still, a major barrier to the growth of the game remains: The limited number of ice rinks in the city means only so many children can learn to play."
+          },
+          {
+            "type": "text",
+            "value": "In spite of that, Baker remains confident about the future of the game. To him, greater investment from the city and the NHL could reshape the geography of hockey in the metropolitan area."
+          },
+          {
+            "type": "text",
+            "value": "“If the powers that be decided this was worth doing, the result comes quick,” Baker said. “When there’s some facilities and some backing in this town, I have no doubt that you will see New York City kids star in the NHL.”"
+          },
+          {
+            "type": "text",
+            "value": "For Garvin, there is a hope that one day, the sport will become more common in Harlem."
+          },
+          {
+            "type": "text",
+            "value": "“There have been generations of ice hockey players to come through Harlem and although it’s not so predominant in the neighborhood, hockey is a part of culture,” Garvin said. “Hockey is just a very unique sport. It’s physically grueling. It’s mentally challenging. Every time we step on the ice, you come out a little bit better for doing it.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Sports Editor Heather Chen can be contacted at </i><a href=\"mailto:heather.chen@columbiaspectator.com\"><i>heather.chen@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/heatherweixi\"><i>@heatherweixi.</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Staff Writer Erica Lee can be contacted at </i><a href=\"mailto:erica.lee@columbiaspectator.com\"><i>erica.lee@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/ericamorganlee\"><i>@ericamorganlee</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter</i></b></a><b><i> and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Breaking the ice: Social, geographic, and financial barriers create obstacles for ice hockey in Upper Manhattan",
+        "date": "February 27, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Heather-Chen/\">Heather Chen</a> and <a href=\"https://www.columbiaspectator.com/contributors/Erica-Lee/\">Erica Lee</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1o1jf48Tn1V6S0p0BIa4H5AhY18Jrmuz3LTrsa32fcCA/edit#"
       }
     }
   }
